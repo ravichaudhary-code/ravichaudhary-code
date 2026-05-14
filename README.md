@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-🎓 I have completed my **Bachelor of Technology(B.Tech) in Computer Science and Engineering** and **I have qualified GATE(CSE) exam two times in 2023 and 2025.** I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+🎓 I have completed my **Bachelor of Technology(B.Tech) in Computer Science and Engineering** and **I have qualified GATE(CSE) exam twice in 2023 and 2025.** I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
 
 🔭 I’m currently working on **data analytics projects** using **SQL, Python, Excel, and Power BI**, focusing on **data cleaning, exploratory data analysis (EDA), dashboard creation, and data visualization** using real-world datasets.
 
