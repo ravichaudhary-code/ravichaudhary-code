@@ -1,6 +1,6 @@
 # Hi there, I'm Ravi Chaudhary 👋
 
-## B.Tech(CSE) Graduate | Aspiring Data Analyst  
+## B.Tech(CSE) Graduate | GATE(CSE) Qualified | Aspiring Data Analyst  
 **SQL | Python | Excel | Power BI | Tableau (Learning) | Machine Learning (Beginner)**
 
 ## 👋 About Me
