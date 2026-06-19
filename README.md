@@ -58,8 +58,8 @@
 
 ## 📜 Certifications
 
-- 🏅 **Data Analytics Master Course with AI** — IIM SKILLS *(April 2026)* — [View Certificate](https://drive.google.com/file/d/1jrkV6Hjhg0jF4PXeqMCtVU4JQnqrKNEN/view?usp=sharing)
-- 🏅 **Data Analytics Internship** — IIM SKILLS *(June 2026)* — [View Certificate](https://drive.google.com/file/d/1_dZH5cjcYnKreTHC0HD6SUl91SnoNZ1f/view?usp=sharing)
+- 🏅 **Data Analytics Master Course with AI** — IIM SKILLS *(April 2026)* 
+- 🏅 **Data Analytics Internship** — IIM SKILLS *(June 2026)* 
 - 🏆 **GATE 2025 Qualified** — Computer Science & Engineering
 
 ---
@@ -82,9 +82,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ravi-chaudhary-8ab3a1233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:26ravichaudhary@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ravichaudhary-code" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
