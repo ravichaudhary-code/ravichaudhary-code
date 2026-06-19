@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Prakash Chaudhary</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fresher;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Insights;GATE+2025+Qualified" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** — Quantum University, Roorkee (2023)
+- 🎓 **B.Tech in Computer Science** — Quantum University, Roorkee , Uttarakhand
 - 💼 **Data Analyst Intern** at **IIM SKILLS** — Analyzed 25,000+ SEO keyword records using Python, MySQL & Power BI
 - 📜 Completed **6-Month Data Analytics Master Course with AI** — IIM SKILLS (2026)
 - 🏆 **GATE 2025 Qualified** (Computer Science & Engineering)
