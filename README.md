@@ -1,68 +1,100 @@
-# Hi there, I'm Ravi Chaudhary 👋
+<h1 align="center">Hi 👋, I'm Ravi Prakash Chaudhary</h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel</h3>
 
-## B.Tech(CSE) Graduate | GATE(CSE) Qualified | Aspiring Data Analyst  
-**SQL | Python | Excel | Power BI | Tableau (Learning) | Machine Learning (Beginner)**
-
-## 👋 About Me
-
-🎓 I have completed my **Bachelor of Technology (B.Tech) in Computer Science and Engineering**. I have also qualified the **GATE (CSE)** exam twice, reflecting my strong academic foundation and problem-solving skills. I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
-
-🔭 I’m currently working on **data analytics projects** using **SQL, Python, Excel, and Power BI**, focusing on **data cleaning, exploratory data analysis (EDA), dashboard creation, and data visualization** using real-world datasets.
-
-👯 I’m looking to collaborate on **Data Analysis, SQL, Power BI dashboards, Python analytics, and beginner-friendly Machine Learning projects** where I can learn and contribute.
-
-🤝 I’m looking for guidance in **advanced analytics, business problem-solving, and industry-level data projects** to strengthen my practical knowledge.
-
-🌱 I’m currently learning **Tableau and Machine Learning fundamentals** to improve my **data visualization and predictive analytics skills**.
-
-💬 Ask me about **SQL, Python for Data Analysis, EDA, Power BI dashboards, Excel analytics, and Data Visualization**.
-
-⚡ Fun Fact: I enjoy turning messy, unstructured data into meaningful insights and interactive dashboards 📊.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fresher;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Insights;GATE+2025+Qualified" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech in Computer Science** — Quantum University, Roorkee (2023)
+- 💼 **Data Analyst Intern** at **IIM SKILLS** — Analyzed 25,000+ SEO keyword records using Python, MySQL & Power BI
+- 📜 Completed **6-Month Data Analytics Master Course with AI** — IIM SKILLS (2026)
+- 🏆 **GATE 2025 Qualified** (Computer Science & Engineering)
+- 🔍 Experienced in analyzing **50K+ records** across sales, SEO, e-commerce & supply chain domains
+- 🚀 Actively seeking **Fresher Data Analyst** roles to drive business insights
+- 📍 Based in **India**
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+**Core Competencies:**
+`Data Cleaning` `Data Wrangling` `EDA` `Statistical Analysis` `DAX` `Power Query`
+`Data Modeling` `KPI Reporting` `Dashboard Development` `Business Intelligence` `K-Means Clustering`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| 🛍️ [Customer Shopping Behavior Analysis](https://github.com/ravichaudhary-code/CUSTOMER-SHOPPING-BEHAVIOR-ANALYSIS-USING-PYTHON-SQL-AND-POWERBI) | Python, PostgreSQL, SQL, Power BI | Analyzed 3,900 transactions — customer segmentation, 10 SQL business queries, interactive dashboard |
+| 📈 [Sales Analytics Dashboard](https://github.com/ravichaudhary-code/SALES-ANALYSIS-WITH-EXCEL-SQL-POWERBI) | Excel, MySQL, SQL, Power BI, DAX | Star schema design, 8+ DAX measures, drill-through reports by country, product & channel |
+| 📡 [Telecom Customer Churn Analysis](https://github.com/ravichaudhary-code/customer-chur-analysis-Using-Python) | Python, Pandas, Matplotlib, Seaborn | EDA on 7,044 records — identified 26.5% churn rate, 3 key retention levers |
+| 🔗 [Supply Chain & Inventory Management](https://github.com/ravichaudhary-code/Inventory-and-Supply-Chain-Management-Analysis-Excel-MySQL-SQL-Power-BI/tree/main) | Excel, MySQL, SQL, Power BI | Analyzed 1,201 records — warehouse utilization, inventory turnover, supplier efficiency |
+| 🔍 [SEO Keyword Analysis — IIM SKILLS Internship](https://github.com/ravichaudhary-code/SEO-KEYWORD-ANALYSIS-WITH-PYTHON-MYSQL-POWERBI) | Python, MySQL, Power BI | 25,000+ keyword records — 15-category classification, K-Means clustering, KPI dashboard |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Data Analytics Master Course with AI** — IIM SKILLS *(April 2026)* — [View Certificate](https://drive.google.com/file/d/1jrkV6Hjhg0jF4PXeqMCtVU4JQnqrKNEN/view?usp=sharing)
+- 🏅 **Data Analytics Internship** — IIM SKILLS *(June 2026)* — [View Certificate](https://drive.google.com/file/d/1_dZH5cjcYnKreTHC0HD6SUl91SnoNZ1f/view?usp=sharing)
+- 🏆 **GATE 2025 Qualified** — Computer Science & Engineering
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravichaudhary-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichaudhary-code&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-
-## 🚀 Featured Projects
-
-### 📌 Data Analysis Dashboard Projects
-- **Sales Dashboard using Power BI**
-- **SQL Project**
-- **Python EDA Project**
-- **Excel Data Analytics Dashboard**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichaudhary-code&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-### 📈 Currently Improving
-✔ Data Analysis Skills  
-✔ SQL Problem Solving  
-✔ Power BI Dashboarding  
-✔ Python for Analytics  
-✔ Machine Learning Basics
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravi-chaudhary-8ab3a1233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:26ravichaudhary@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ravichaudhary-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravichaudhary-code&label=Profile%20Views&color=2196F3&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">⭐ <i>If you like my work, consider starring my repositories!</i> ⭐</p>
